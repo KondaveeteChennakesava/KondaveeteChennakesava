@@ -1,3 +1,5 @@
+<h1>Hi 👋, I'm Kesava</h1>
+<p>A passionate Full stack developer </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chennakesava-kondaveete-8a6b5b230) 
